@@ -1,0 +1,7 @@
+[
+  { "id": 1, "fact": "The first computer bug was an actual moth found in a relay in 1947." },
+  { "id": 2, "fact": "Sudoku puzzles can be solved using a backtracking algorithm in milliseconds." },
+  { "id": 3, "fact": "React's useState hook was introduced in React 16.8 with Hooks." },
+  { "id": 4, "fact": "A fair coin toss has a 50% chance, but physical tosses are slightly biased." },
+  { "id": 5, "fact": "JavaScript was created in just 10 days by Brendan Eich in 1995." }
+]
